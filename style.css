@@ -651,8 +651,9 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757	!important;
 }
+
 
 .container {
     max-width: 1000px;
@@ -723,7 +724,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color:	#575757!important;
 }
 
 h4 {
@@ -1033,7 +1034,6 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-   
 }
 
 @media (max-width: 767px) {
